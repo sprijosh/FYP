@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list id="7f8982af-467a-41a5-9e84-53e21f58aa5b" name="Default" comment="" />
     <list id="735e4591-89c3-4dff-be74-0345a6ac8d79" name="Failed commit: Default" comment="This is my FYP" />
-    <list default="true" id="36022ca6-57be-4fdf-ad00-50823cf35ffe" name="Joshua" comment="&#10;V2">
+    <list default="true" id="36022ca6-57be-4fdf-ad00-50823cf35ffe" name="Joshua" comment="&#10;">
       <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Application Support/Brackets/extensions/user/brackets-beautify" afterPath="$USER_HOME$/Library/Application Support/Brackets/extensions/user/brackets-beautify" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Application Support/Brackets/extensions/user/chrisgriffith.jqmbrackets" afterPath="$USER_HOME$/Library/Application Support/Brackets/extensions/user/chrisgriffith.jqmbrackets" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Application Support/Brackets/extensions/user/edge-inspect-extension" afterPath="$USER_HOME$/Library/Application Support/Brackets/extensions/user/edge-inspect-extension" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="version1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/version1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48816568">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.64171124">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#24#42#0" expanded="true" />
               </folding>
@@ -141,6 +141,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="Push.Settings">
+    <excluded-roots>
+      <path value="$USER_HOME$" />
+    </excluded-roots>
   </component>
   <component name="RunManager" selected="Python.Unnamed">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -342,12 +347,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="18" width="792" height="640" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30555555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2623853" sideWeight="0.49616858" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32844037" sideWeight="0.50883836" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2623853" sideWeight="0.4911616" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2623853" sideWeight="0.50883836" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -384,7 +389,8 @@
     <MESSAGE value="&#10;?&#10;" />
     <MESSAGE value="ok2&#10;" />
     <MESSAGE value="&#10;V2" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;V2" />
+    <MESSAGE value="V2" />
+    <option name="LAST_COMMIT_MESSAGE" value="V2" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -610,10 +616,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/version1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48816568">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.64171124">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#24#42#0" expanded="true" />
           </folding>
