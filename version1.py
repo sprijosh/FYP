@@ -9,7 +9,7 @@ import sys
 color_mode=cv2.COLOR_BGR2XYZ
 ings = []
 directions=[]
-#This is new
+#This is new 2
 cap = cv2.VideoCapture(int(sys.argv[1]))
 #read XML and parse it into array
 recipe=ET.parse('../TNE.xml')
